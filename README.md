@@ -5,5 +5,5 @@ USER: WZRD95
 
 > How does changing an image filter compare to a more data driven approach to help see colors?
 
-There are many ways to use filters to help in assisting people that have CVD. However there seem to not be many in the idea of data driven filtering. This way there can possibly be a way to make sure that the colors they are looking at are the same or not. Since now there is hard data to isolate the colors or to show numereacal data in what colors are there. Overall this can show that maybe with a more data driven approach we can now be more certain that the colors you do see are indeed the same or different.
+Current color-filtering methods for people with color vision deficiency (CVD) have limits because they often rely on assumptions rather than on objective data. By taking a data-driven approach, we can analyze colors with greater certainty. Using image data to analyze colors, rather than relying on simple filters, provides a more precise way to find color matches. This approach could help those with CVD be more confident that the colors they see are the same as those seen by someone with normal vision.
 
